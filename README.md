@@ -1,2 +1,3 @@
 # Data-Analyst-Notes
-Here are my notes of all courses I'm taking to become a data analyst.
+Este repositorio contiene mis apuntes y ejercicios de aprendizaje en análisis de datos.
+Incluye Excel, SQL, Python, Power BI y proyectos prácticos.
